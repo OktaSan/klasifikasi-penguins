@@ -3,7 +3,7 @@ import numpy as np
 
 # 1. Memuat Dataset
 print("Memuat dataset penguins.csv...")
-df = pd.read_csv('data/penguins.csv')
+df = pd.read_csv('data/tahap 1/penguins.csv')
 print("Dataset berhasil dimuat.")
 
 # 2. Menghapus Nilai Null (Missing Values)
